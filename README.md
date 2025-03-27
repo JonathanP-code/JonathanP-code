@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-stack+development;Always+learning+new+things.;Building+scalable+web+apps.;Feel+free+to+leave+a+⭐+:)" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-stack+development;Always+learning+new+things.;Student;Building+scalable+web+apps.;Feel+free+to+leave+a+⭐+:)" alt="Typing Animation" />
 </p>
 
 
