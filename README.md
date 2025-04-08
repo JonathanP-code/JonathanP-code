@@ -10,7 +10,7 @@
 - I´m interested in AI, machine learning, and software development
 - I´m currently improving prediction models and optimizing automation processes
 - Looking to collaborate on AI-driven applications
-- Love using ChatGPT
+- Love using ChatGPT😜
 
 
 
